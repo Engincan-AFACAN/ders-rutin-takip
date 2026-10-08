@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Ders & Rutin — Ders ve Alışkanlık Takibi",
+  "short_name": "Ders & Rutin",
+  "description": "Ders çalışma süreleri, günlük görevler, alışkanlıklar ve haftalık hedeflerini takip et.",
+  "lang": "tr",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
